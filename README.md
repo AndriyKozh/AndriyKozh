@@ -1,12 +1,12 @@
-# Hi, I'm Andriy Kozhevnikov
+# Hi, I'm Andriy Kozhevnikov 👋
 
-### Full-Stack Developer | DevOps & AI Engineering Enthusiast
+### Full-Stack Developer | Exploring DevOps & Kubernetes
 
 I'm a Full-Stack Developer with experience in developing, maintaining, and optimizing web applications, CRM systems, and backend services.
 
 I work with production systems, third-party API integrations, databases, and business automation.
 
-Currently, I'm expanding my skills in **DevOps, Kubernetes, Cloud Infrastructure, and AI Engineering**.
+Currently, I'm expanding my knowledge of **DevOps, Kubernetes, and infrastructure automation**, building on my software development experience.
 
 ## Technical Skills
 
@@ -29,16 +29,18 @@ Currently, I'm expanding my skills in **DevOps, Kubernetes, Cloud Infrastructure
 **Tools & Infrastructure**
 
 - Git / GitHub
-- Docker
+- Docker / Docker Compose
 - Linux
+- SSH / CLI
 - CI/CD fundamentals
 
 **Currently Learning**
 
-- Kubernetes & DevOps
+- DevOps & Kubernetes
 - Python / FastAPI
 - GitHub Actions
 - Monitoring & Observability
+- Infrastructure Automation
 - AI Agents & LLM Integrations
 
 ## Professional Experience
@@ -51,15 +53,11 @@ Currently, I'm expanding my skills in **DevOps, Kubernetes, Cloud Infrastructure
 
 ## Current Focus
 
-My goal is to combine software development, infrastructure automation, and artificial intelligence to build reliable and scalable systems.
+I'm currently focusing on DevOps and Kubernetes while continuing to grow as a Full-Stack Developer.
 
-I'm currently improving my practical skills in:
+My goal is to better understand the entire application lifecycle — from development and deployment to monitoring and maintaining reliable production systems.
 
-- Container orchestration with Kubernetes
-- CI/CD pipeline implementation
-- Infrastructure monitoring and observability
-- Python backend development
-- AI-powered automation and intelligent agents
+I'm also interested in AI-powered automation and exploring how it can improve development and operational workflows.
 
 ## Connect With Me
 
